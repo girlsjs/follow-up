@@ -1,0 +1,24 @@
+{
+  "name": "girlsjs-followup",
+  "version": "1.0.0",
+  "description": "Place for all our follow-up training materials.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gitbook serve ./book",
+    "build": "gitbook build ./book"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/girlsjs/follow-up.git"
+  },
+  "author": "Girls.js",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/girlsjs/follow-up/issues"
+  },
+  "homepage": "https://github.com/girlsjs/follow-up#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
