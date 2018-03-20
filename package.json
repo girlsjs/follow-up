@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "gitbook-setup": "cd ./book && gitbook install",
     "start": "gitbook serve ./book",
     "build": "gitbook build ./book"
   },

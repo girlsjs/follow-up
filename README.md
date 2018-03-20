@@ -5,17 +5,18 @@
 ```bash
 git clone git@github.com:girlsjs/follow-up.git
 cd follow-up
-npm install
+yarn install
+yarn gitbook-setup
 ```
 
 ## Run
 ```bash
-npm start
+yarn start
 ```
 
 ## Build (for deploy)
 ```bash
-npm build
+yarn build
 ```
 
 ## Known Issues
