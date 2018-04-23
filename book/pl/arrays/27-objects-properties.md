@@ -1,4 +1,4 @@
-## Wartości wewnątrz obiektów<
+## Wartości wewnątrz obiektów
 Aby dostać się do wartości używamy następującej notacji:
 ```javascript
 user.nazwa;
@@ -11,7 +11,7 @@ user['nazwa'];
 Ale ta notacja jest rzadziej używana, tylko w specyficznych przypadkach.
 
 ### Wartości wewnątrz obiektów
-Nazywane są `własnościami` lub `polami` obiekt. W angielskiej nomenklaturze określa się je jako `properties`.
+Nazywane są `własnościami` lub `polami` obiektu. W angielskiej nomenklaturze określa się je jako `properties`.
 
 ### Wewnętrzne zmienne
 Można powiedzieć, że właściwości obiektów są takimi zmiennymi wewnątrz obiektów

@@ -30,10 +30,10 @@
 * [Anatomia obiektów](arrays/26-objects-anatomy.md)
 * [Właściwości obiektów](arrays/27-objects-properties.md)
 * [Metody obiektów](arrays/29-objects-methods.md)
-* [Ćwiczenie](arrays/30-excercise-2-1.md)
+* [Ćwiczenie](arrays/30-excercise-2.md)
 * [Rozwiązanie](arrays/32-excercise-2-solution.md)
 
-### Łaczymy obiekty i tablice
+### Łączymy obiekty i tablice
 * [Przypomnienie](arrays/33-combining-arrays-and-objects.md)
 * [Tablice w tablicy](arrays/35-array-in-array.md)
 * [Obiekty w tablicy](arrays/36-objects-in-array.md)
