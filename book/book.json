@@ -1,8 +1,0 @@
-{
-  "plugins": ["code"],
-  "pluginsConfig": {
-    "code": {
-      "copyButtons": true
-    }
-  }
-}
