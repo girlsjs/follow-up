@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/girlsjs/follow-up#readme",
   "dependencies": {
-    "gitbook-cli": "^2.3.2"
+    "gitbook-cli": "^2.3.2",
+    "highlight.js": "^9.12.0"
   }
 }
