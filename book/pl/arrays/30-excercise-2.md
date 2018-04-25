@@ -2,7 +2,7 @@
 ![Zdjęcie w domenie publicznej. Autorem jest Tech. Sgt. Keith Brown](./img/army.jpg)
 
 ## Ćwiczenie
-Paczkę z zadaniem znajdziecie [tutaj](./exercise.zip). Otwórzcie plik `exercise1.html`
+Paczkę z zadaniem znajdziecie <a href="./exercise.zip" target="_blank">tutaj</a>. Otwórzcie plik `exercise1.html`
 ### Strutkura
 Plik wygląda z grubsza tak:
 ```html
